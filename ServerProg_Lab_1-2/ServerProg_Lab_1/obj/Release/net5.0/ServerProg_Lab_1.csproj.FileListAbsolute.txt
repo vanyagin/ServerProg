@@ -1,0 +1,15 @@
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.exe
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.deps.json
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.runtimeconfig.json
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.runtimeconfig.dev.json
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.dll
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\bin\Release\net5.0\ServerProg_Lab_1.pdb
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.AssemblyInfo.cs
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.dll
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\refint\ServerProg_Lab_1.dll
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.pdb
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ServerProg_Lab_1.genruntimeconfig.cache
+C:\Users\vanya\source\repos\ServerProg_Lab_1\ServerProg_Lab_1\obj\Release\net5.0\ref\ServerProg_Lab_1.dll
