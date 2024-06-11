@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Display",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt.",
+    "Icon": "icon icon-display"
+  },
+  {
+    "Name": "Database",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt.",
+    "Icon": "icon icon-database"
+  },
+  {
+    "Name": "Magic Wand",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt.",
+    "Icon": "icon icon-magic-wand"
+  },
+  {
+    "Name": "Desktop App",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt.",
+    "Icon": "icon icon-cloud"
+  }
+]
